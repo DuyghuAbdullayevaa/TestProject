@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CourseTestProjectApiSln.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b54f0b90c8721f90c9845a01183d73af2b3191c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1fa84824d8993aed1f6d3ef3f1cf2609b642933")]
 [assembly: System.Reflection.AssemblyProductAttribute("CourseTestProjectApiSln.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CourseTestProjectApiSln.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

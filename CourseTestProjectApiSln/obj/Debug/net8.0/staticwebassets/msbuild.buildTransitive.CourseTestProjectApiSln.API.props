@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CourseTestProjectApiSln.API.props" />
+</Project>

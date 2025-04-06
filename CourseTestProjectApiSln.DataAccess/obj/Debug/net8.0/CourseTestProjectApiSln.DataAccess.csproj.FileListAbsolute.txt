@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\obj\Debug\net8.0\CourseTestProjectApiSln.DataAccess.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\obj\Debug\net8.0\CourseTestProjectApiSln.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\obj\Debug\net8.0\CourseTestProjectApiSln.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\obj\Debug\net8.0\CourseTestProjectApiSln.DataAccess.AssemblyInfo.cs
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\obj\Debug\net8.0\CourseTestProjectApiSln.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\obj\Debug\net8.0\CourseTestProjectApiSln.DataAccess.sourcelink.json
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\bin\Debug\net8.0\CourseTestProjectApiSln.DataAccess.deps.json
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\bin\Debug\net8.0\CourseTestProjectApiSln.DataAccess.runtimeconfig.json
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\bin\Debug\net8.0\CourseTestProjectApiSln.DataAccess.dll
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\bin\Debug\net8.0\CourseTestProjectApiSln.DataAccess.pdb
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\obj\Debug\net8.0\CourseTestProjectApiSln.DataAccess.dll
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\obj\Debug\net8.0\refint\CourseTestProjectApiSln.DataAccess.dll
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\obj\Debug\net8.0\CourseTestProjectApiSln.DataAccess.pdb
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\obj\Debug\net8.0\CourseTestProjectApiSln.DataAccess.genruntimeconfig.cache
+C:\Users\user\source\repos\CourseTestProjectApiSln\CourseTestProjectApiSln.DataAccess\obj\Debug\net8.0\ref\CourseTestProjectApiSln.DataAccess.dll

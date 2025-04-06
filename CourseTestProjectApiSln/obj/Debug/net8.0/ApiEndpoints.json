@@ -1,0 +1,234 @@
+[
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.AdminController",
+    "Method": "RegisterTeacher",
+    "RelativePath": "api/admin/register-teacher",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerTeacherUserDto",
+        "Type": "CourseTestProjectApiSln.Business.DTOs.User.RegisterTeacherUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/user/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginUserDto",
+        "Type": "CourseTestProjectApiSln.Business.DTOs.User.LoginUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.UserController",
+    "Method": "Refresh",
+    "RelativePath": "api/user/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenApiDto",
+        "Type": "CourseTestProjectApiSln.Business.DTOs.User.TokenApiDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/user/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "RegisterStudentUserDto",
+        "Type": "CourseTestProjectApiSln.Business.DTOs.User.RegisterStudentUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.UserController",
+    "Method": "Revoke",
+    "RelativePath": "api/user/revoke",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.StudentController",
+    "Method": "CreateStudentAsync",
+    "RelativePath": "student/create-student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentDto",
+        "Type": "CourseTestProjectApiSln.Business.DTOs.Student.PostStudentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.StudentController",
+    "Method": "DeleteStudentAsync",
+    "RelativePath": "student/delete-student/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.StudentController",
+    "Method": "GetAllStudentsAsync",
+    "RelativePath": "student/get-all-students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.StudentController",
+    "Method": "GetStudentByIdAsync",
+    "RelativePath": "student/get-student-by-\u0131d/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.StudentController",
+    "Method": "UpdateStudentAsync",
+    "RelativePath": "student/update-student/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "studentDto",
+        "Type": "CourseTestProjectApiSln.Business.DTOs.Student.UpdateStudentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.TeacherController",
+    "Method": "CreateTeacherAsync",
+    "RelativePath": "teacher/create-teacher",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teacherDto",
+        "Type": "CourseTestProjectApiSln.Business.DTOs.Teacher.PostTeacherDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.TeacherController",
+    "Method": "DeleteTeacherAsync",
+    "RelativePath": "teacher/delete-teacher/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.TeacherController",
+    "Method": "GetAllTeachersAsync",
+    "RelativePath": "teacher/get-all-teachers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.TeacherController",
+    "Method": "GetTeacherByIdAsync",
+    "RelativePath": "teacher/get-teacher-by-\u0131d/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseTestProjectApiSln.API.Controllers.TeacherController",
+    "Method": "UpdateTeacherAsync",
+    "RelativePath": "teacher/update-teacher/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "teacherDto",
+        "Type": "CourseTestProjectApiSln.Business.DTOs.Teacher.UpdateTeacherDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
